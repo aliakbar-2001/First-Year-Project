@@ -1,0 +1,9 @@
+ID: 12345678910
+Name: 12345678910
+Phone number : 12345678910
+G-Mail : 12345678910
+Blood Group : 123
+Department : 125
+Intake : 123
+Section : 123
+Password : 1111

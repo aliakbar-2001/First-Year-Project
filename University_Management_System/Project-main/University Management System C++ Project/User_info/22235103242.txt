@@ -1,0 +1,9 @@
+ID: 22235103242
+Name: Tarikul islam
+Phone number : 01909290959
+G-Mail : tarikulilsam@gmail.com
+Blood Group : A-
+Department : CSE
+Intake : 51
+Section : 06
+Password : 12345678

@@ -1,0 +1,12 @@
+################################################################################
+#                          BUBT Campus                                         #
+################################################################################
+#                                                                              #
+# The permanent campus of BUBT is located at Rupnagar, Mirpur-2, Dhaka-1216    #
+# with three spacious buildings and with all facilities for higher education.  #
+# It is surrounded by a good number of educational institutions in an          #
+# excellent academic atmosphere. The campus of BUBT has excellent              #
+# communication links from all parts of the Dhaka City as well as from         #
+# outside the City by cars, buses, taxies, rickshaws etc.                      #
+#                                                                              #
+################################################################################

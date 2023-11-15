@@ -1,0 +1,206 @@
++------------------------------------------------------------------+
+| 1.                                                               |
+|   Prof. Syed Anwarul Huq                                         |
+|   ----------------------                                         |
+|   Professor                                                      |
+|   Department of English                                          |
+|   Dean, Faculty of Arts & Humanities                             |
+|   Faculty Code: SAH                                              |
+|   EMAIL ADDRESS:  s.a.huq1951@gmail.com                          |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 2.                                                               |
+|   Mohammad Shawkat Ali                                           |
+|   --------------------                                           |
+|   Associate Professor & Chairman                                 |
+|   Department of English                                          |
+|   Faculty Code: SKA                                              |
+|   EMAIL ADDRESS:  asmsali@gmail.com                              |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 3.                                                               |
+|   Ms. Mushfeka Deeba                                             |
+|   ------------------                                             |
+|   Assistant Professor                                            |
+|   Department of English                                          |
+|   Faculty Code: MD                                               |
+|   EMAIL ADDRESS:  mushfeka_deeba@yahoo.com                       |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 4.                                                               |
+|   Md. Abdullah Al Azad                                           |
+|   --------------------                                           |
+|   Assistant Professor                                            |
+|   Department of English                                          |
+|   Faculty Code: AAA                                              |
+|   EMAIL ADDRESS:  azadwell@gmail.com                             |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 5.                                                               |
+|   Farhana Bhuiya                                                 |
+|   --------------                                                 |
+|   Assistant Professor                                            |
+|   Department of English                                          |
+|   Faculty Code: FB                                               |
+|   EMAIL ADDRESS:  farhana2008@yahoo.com                          |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 6.                                                               |
+|   Md. Reza Hassan Khan                                           |
+|   --------------------                                           |
+|   Assistant Professor                                            |
+|   Department of English                                          |
+|   Faculty Code: RH                                               |
+|   EMAIL ADDRESS:  reza@bubt.edu.bd                               |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 7.                                                               |
+|   Md. Shirazur Rahman                                            |
+|   -------------------                                            |
+|   Assistant Professor                                            |
+|   Department of English                                          |
+|   Faculty Code: SZR                                              |
+|   EMAIL ADDRESS:  setu.bubt@gmail.com                            |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 8.                                                               |
+|   Ms. Farhana Easmin Mitu                                        |
+|   -----------------------                                        |
+|   Assistant Professor                                            |
+|   Department of English                                          |
+|   Faculty Code: FEM                                              |
+|   EMAIL ADDRESS:  fmitueng@gmail.com                             |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 9.                                                               |
+|   Jannatul Ferdoush                                              |
+|   -----------------                                              |
+|   Assistant Professor                                            |
+|   Department of English                                          |
+|   Faculty Code: JNTF                                             |
+|   EMAIL ADDRESS:  jannat_asa@bubt.edu.bd                         |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 10.                                                              |
+|    Kazal Kumar Das                                               |
+|    ---------------                                               |
+|    Assistant Professor                                           |
+|    Department of English                                         |
+|    Faculty Code: KKD                                             |
+|    EMAIL ADDRESS:  kazal.k@bubt.edu.bd                           |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 11.                                                              |
+|    Meria Nusrat Sarkar                                           |
+|    -----------------                                             |
+|    Assistant Professor                                           |
+|    Department of English                                         |
+|    Faculty Code: MNS                                             |
+|    EMAIL ADDRESS:  meria@bubt.edu.bd                             |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 12.                                                              |
+|    Sheikh Md. Ashraful Alam Rony                                 |
+|    -----------------------------                                 |
+|    Lecturer                                                      |
+|    Department of English                                         |
+|    Faculty Code: SMAA                                            |
+|    EMAIL ADDRESS:  ronyju04@gmail.com                            |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 13.                                                              |
+|    Umme Habiba Hassan                                            |
+|    ------------------                                            |
+|    Lecturer                                                      |
+|    Department of English                                         |
+|    Faculty Code: UMHS                                            |
+|    EMAIL ADDRESS:  habiba95hassan@gmail.com                      |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 14.                                                              |
+|    Illosia Mouneen                                               |
+|    ---------------                                               |
+|    Lecturer                                                      |
+|    Department of English                                         |
+|    Faculty Code: ILMN                                            |
+|    EMAIL ADDRESS:  illosiaofficial@gmail.com                     |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 15.                                                              |
+|    Md. Solaiman Alam                                             |
+|    -----------------                                             |
+|    Lecturer                                                      |
+|    Department of English                                         |
+|    Faculty Code: SLA                                             |
+|    EMAIL ADDRESS:  ocean1288@yahoo.com                           |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 16.                                                              |
+|    Mahmud Sazzad                                                 |
+|    -------------                                                 |
+|    Lecturer                                                      |
+|    Department of English                                         |
+|    Faculty Code: MSD                                             |
+|    EMAIL ADDRESS:  mahmudsazzad40@gmail.com                      |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 17.                                                              |
+|    Syeeda Haque Shimu                                            |
+|    ------------------                                            |
+|    Lecturer                                                      |
+|    Department of English                                         |
+|    Faculty Code: SHSH                                            |
+|    EMAIL ADDRESS:  syeedashimu2@gmail.com                        |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 18.                                                              |
+|    Afia Sharmin Tuli                                             |
+|    -----------------                                             |
+|    Lecturer                                                      |
+|    Department of English                                         |
+|    Faculty Code: AST                                             |
+|    EMAIL ADDRESS:  afiatuli43@gmail.com                          |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 19.                                                              |
+|    Tahseena Humaira                                              |
+|    ----------------                                              |
+|    Lecturer                                                      |
+|    Department of English                                         |
+|    Faculty Code: THM                                             |
+|    EMAIL ADDRESS:  tahseenahumaira28@gmail.com                   |     
++------------------------------------------------------------------+
+
+
++------------------------------------------------------------------+
+| 20.                                                              |
+|    Jannatul Mawa Sonia                                           |
+|    -------------------                                           |
+|    Lecturer                                                      |
+|    Department of English                                         |
+|    Faculty Code: JMSN                                            |
+|    EMAIL ADDRESS:  sonia@bubt.edu.bd                             |     
++------------------------------------------------------------------+
+
+
+
+
+

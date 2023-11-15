@@ -1,0 +1,116 @@
++------------------------------------------------------------------+
+| 1.                                                               |
+|   Dr. Muhammad Fayyaz Khan                                       |
+|   ------------------------                                       |
+|   Professor & Vice Chancellor                                    |
+|   Department of Electrical & Electronic Engineering (EEE)        |
+|   Faculty Code: FK                                               |
+|   EMAIL ADDRESS:  fk@bubt.edu.bd                                 |      
+|                                                                  |
+|   RESEARCH AREA:                                                 |
+|   (1)Power System.                                               |
+|   (2)Renewable Energy.                                           |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 2.                                                               |
+|   Dr. Md. Anwar Hossain                                          |
+|   ---------------------                                          |
+|   Professor and Chairman                                         |
+|   Department of Electrical & Electronic Engineering (EEE)        |
+|   Faculty Code: DAHO                                             |
+|   EMAIL ADDRESS:  dr.anwar@bubt.edu.bd                           |                          
+|                                                                  |
+|   RESEARCH AREA:                                                 |
+|   (1)Optics and Photonics.(2)Biophotonics and Sensors.           |
+|   (3) Antenna and Electromagnetic Field Theory.                  |
+|   (4) Photonic Crystal Fiber.                                    |
+|   (5)Beamforming(Antenna Array Signal Processing).(6) CDMA.      |
+|   (7)Optical CDMA.(8) OFDM.                                      |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 3.                                                               |
+|   Md. Alamgir Kabir                                              |
+|   -----------------                                              |
+|   Assistant Professor                                            |
+|   Department of Electrical & Electronic Engineering (EEE)        |
+|   Faculty Code:  ALK                                             |
+|   EMAIL ADDRESS:  kabir@bubt.edu.bd                              |      
+|                                                                  |
+|   RESEARCH AREA:                                                 |
+|   (1)Optoelectronics.(2)Semiconductor Devices.(3) Nanotechnology.|
+|   (4) Green Energy.(5) Internet of Things (IoT).                 |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 4.                                                               |
+|   Kanij Fatema                                                   |
+|   ------------                                                   |
+|   Assistant Professor                                            |
+|   Department of Electrical & Electronic Engineering (EEE)        |
+|   Faculty Code: KFT                                              |
+|   EMAIL ADDRESS:  kanij_fatema@bubt.edu.bd                       |      
+|                                                                  |
+|   RESEARCH AREA:                                                 |
+|   (1)Solid State Physics.                                        |
+|   (2)Renewable Energy.                                           |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 3.                                                               |
+|   Md. Sabbir Hasan Sohag                                         |
+|   ----------------------                                         |
+|   Assistant Professor                                            |
+|   Department of Electrical & Electronic Engineering (EEE)        |
+|   Faculty Code:  SHG                                             |
+|   EMAIL ADDRESS:  s.hasan@bubt.edu.bd                            |      
+|                                                                  |
+|   RESEARCH AREA:                                                 |
+|   (1)Electronics and Photonics. (2)Wireless Sensor Network.      |
+|   (3) DSM.(4) HVDC.(5) IoT Based Smart City.(6) FSO.             |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 5.                                                               |
+|   SHAHADET HOSEN POLASH                                          |
+|   ---------------------                                          |
+|   Lecturer (Contractual)                                         |
+|   Department of Electrical & Electronic Engineering (EEE)        |
+|   Faculty Code: SHP                                              |
+|   EMAIL ADDRESS:  shahadetpolash@bubt.edu.b                      |      
+|                                                                  |
+|   RESEARCH AREA:                                                 |
+|   (1) Power System.                                              |
+|   (2)Smart Grid.                                                 |
+|   (3)Renewable Energy.                                           |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 6.                                                               |
+|   Mohammed Radoan                                                |
+|   ---------------                                                |
+|   Lecturer                                                       |
+|   Department of Electrical & Electronic Engineering (EEE)        |
+|   Faculty Code: RND                                              |
+|   EMAIL ADDRESS:  radoan@bubt.edu.bd                             |      
+|                                                                  |
+|   RESEARCH AREA:                                                 |
+|   (1)Photonics.                                                  |     
++------------------------------------------------------------------+
+
++------------------------------------------------------------------+
+| 7.                                                               |
+|   Azizun Nahar Arju                                              |
+|   -----------------                                              |
+|   Lecturer (Contractual)                                         |
+|   Department of Electrical & Electronic Engineering (EEE)        |
+|   Faculty Code: ANAJ                                             |
+|   EMAIL ADDRESS:  azizunarju@bubt.edu.bd                         |      
+|                                                                  |
+|   RESEARCH AREA:                                                 |
+|   (1) Optical Sensor.                                            |
+|   (2) 6G.                                                        |     
++------------------------------------------------------------------+
+
+
